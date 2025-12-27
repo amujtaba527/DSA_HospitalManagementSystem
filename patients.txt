@@ -1,0 +1,2 @@
+101|Ahmed Khan|30|03001234567|1|1|Severe Fever
+102|Talha Khan|25|03217654321|5|0
